@@ -61,4 +61,4 @@ Stock de Zapato Deportivo duplicado a 20 unidades.
 
 ## Autor
 
-- [Tu Nombre Aquí]
+- [Romario Ramirez]
